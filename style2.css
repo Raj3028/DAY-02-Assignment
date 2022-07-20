@@ -1,0 +1,74 @@
+
+
+#abc {
+
+width: 500px;
+height: 250px;
+background-color: #6A5ACD;
+display: flex;
+justify-content: center;
+align-items: center;
+border: bisque;
+
+}
+
+#inner-box {
+
+width: 470px;
+height: 220px;
+background-color: white;
+border-radius: 5px;
+
+}
+
+body{
+height: 100vh;
+width: 100vw;
+display: flex;
+background-color: white;
+justify-content: center;
+align-items: center;
+}
+
+.container{
+
+font-family: Arial, Helvetica, sans-serif;   
+text-align: center;
+padding: 0px;
+
+}
+    
+.container h3{
+
+margin-top: 20px;
+margin-bottom: 20px;
+color: grey;
+font-size: 15px;
+
+
+}
+
+#joke{
+
+margin: 30px;
+text-align: center;
+font-size: 21px;
+
+}
+
+#jokeBtn{
+
+margin-top: 15px;
+color: white;
+border: none;
+background-color: #a46bda;
+padding: 10px;
+width: 173px;
+border-radius: 8px;
+
+}
+
+.btn{
+font-weight: bold;
+    
+}
